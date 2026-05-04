@@ -74,11 +74,11 @@ Dashboard visuals include:
 
 ![Total Wins by NFL Team](screenshots/Total%20Wins%20by%20NFL%20Team.png)
 
-![Total Home Game Attendance by NFL Team](screenshots/Total%20Home%Game%20Attendance%20by%20NFL%20Team.png)
+![Total Home Game Attendance by NFL Team](screenshots/Total%20Home%20Game%20Attendance%20by%20NFL%20Team.png)
 
-![Home Game Attendance Trends Over Time](screenshots/Home%Game%20Attendance%20Trends%20Over%20Time.png)
+![Home Game Attendance Trends Over Time](screenshots/Home%20Game%20Attendance%20Trends%20Over%20Time.png)
 
-![Median Household Income by Team City](screenshots/Median%20Household%Income%20by%20Team%20City.png)
+![Median Household Income by Team City](screenshots/Median%20Household%20Income%20by%20Team%20City.png)
 
 *Note: Screenshots were captured within an institutional Power BI environmenht. The map visual displays an upgrade prompt due to institutional licensing restrictions; the underlying data and configuration are intact within the repository's .pbix file. Additonally, the Census income table extends beyond the visible screenshot area but can be accessed fully by utilizing the included .pbix file*
 
