@@ -47,12 +47,15 @@ The four source tables were cleaned and restructured prior to analysis. Team cit
 ## **Key Findings**
 
 **Geographic Concentration of Success**
+
 A choropleth map of total team wins by state from 2000 to 2019 reveals that California, Florida, Texas, and Pennsylvania account for a disproportionate share of cumulative wins, driven by both the number of franchises housed in those states along with their sustained success over the two-decade period. Win success appears geographically clustered rather than randomly distributed, concentrated particularly along both coasts and in the South.
 
 **Divisional Performance Patterns**
+
 The New England Patriots stand out across the period with 237 total wins, more than double the Cleveland Browns at 99 wins (the most and least successful franchises respectively). At the divisional level, the AFC North distinguished itself as the strongest defensive division with an average rating of 1.18, driven largely by the Baltimore Ravens and Pittsburgh Steelers, while the AFC West led offensively at 0.815. The NFC West and AFC South are the only divisions that were negative in both offensive and defensive average ratings, suggesting a sustained period of below-average performance across both sides of the ball. 
 
 **City Income vs. Team Performance**
+
 A scatter plot of median household income against total wins for all 32 franchises reveals virtually no relationship, with an R-squared value of 0.0254 indicating that host city income explains approximately 2.5% of the variation in team wins. Notable counterexamples include the San Francisco 49ers with 148 wins despite having the highest median income, and the Pittsburgh Steelers accumulating 205 wins as one the lower median income cities within the dataset. These findings suggest that competition-balancing mechanisms such as salary caps and the draft system effectively level the playing field regardless of varying host city economic profiles.
 
 ---
