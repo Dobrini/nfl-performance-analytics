@@ -70,9 +70,17 @@ Dashboard visuals include:
 - Line chart tracking attendance trends from 2000 to 2019
 - Census income table with cross-filter linking to all other visuals
 
-See the /screenshots folder for exported views of all dashboard and static report visuals without any filters applied. The Census income table extends beyond the visible screenshot area but can be accessed fully by utilizing the included .pbix file. 
+![Dashboard Overview](screenshots/NFL_Dashboard.png)
 
-*Note: Screenshots were captured within an institutional Power BI environmenht. The map visual displays an upgrade prompt due to institutional licensing restrictions; the underlying data and configuration are intact within the repository's .pbix file.*
+![Total Wins by NFL Team](screenshots/Total%20Wins%20by%20NFL%20Team.png)
+
+![Total Home Game Attendance by NFL Team](screenshots/Total%20Home%Game%20Attendance%20by%20NFL%20Team.png)
+
+![Home Game Attendance Trends Over Time](screenshots/Home%Game%20Attendance%20Trends%20Over%20Time.png)
+
+![Median Household Income by Team City](screenshots/Median%20Household%Income%20by%20Team%20City.png)
+
+*Note: Screenshots were captured within an institutional Power BI environmenht. The map visual displays an upgrade prompt due to institutional licensing restrictions; the underlying data and configuration are intact within the repository's .pbix file. Additonally, the Census income table extends beyond the visible screenshot area but can be accessed fully by utilizing the included .pbix file*
 
 --- 
 
