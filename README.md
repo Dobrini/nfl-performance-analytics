@@ -91,10 +91,15 @@ The Census income data represents a single snapshot rather than a longitudinal s
 ---
 
 ## **References**
+
 Benz, L., Bliss, T., & Lopez, M. (2024). A comprehensive survey of the home advantage in American football. Journal of Quantitative Analysis in Sports, 20(4), 277–291. https://doi.org/10.1515/jqas-2024-0016
+
 Exploring the Economic Impact of the NFL on Host Cities. (2024, April 14). Athleisure MagTM | Athleisure Culture. http://www.athleisuremag.com/the-latest/2024/4/14/exploring-the-economic-impact-of-the-nfl-on-host-cities
+
 NFL Stadium Attendance Dataset. (2023, October 16). https://www.kaggle.com/datasets/sujaykapadnis/nfl-stadium-attendance-dataset
+
 NFL Teams Data. (2023, November 14). https://www.kaggle.com/datasets/kayla96/nfl-teams-data
+
 US Census Bureau. (n.d.). Census Bureau Data and Maps. Census.Gov. Retrieved April 3, 2026, from https://www.census.gov/data.html
 
 
