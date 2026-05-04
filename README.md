@@ -80,7 +80,7 @@ Dashboard visuals include:
 
 ![Median Household Income by Team City](screenshots/Median%20Household%20Income%20by%20Team%20City.png)
 
-*Note: Screenshots were captured within an institutional Power BI environmenht. The map visual displays an upgrade prompt due to institutional licensing restrictions; the underlying data and configuration are intact within the repository's .pbix file. Additonally, the Census income table extends beyond the visible screenshot area but can be accessed fully by utilizing the included .pbix file*
+*Note: Screenshots were captured within an institutional Power BI environment. The map visual displays an upgrade prompt due to institutional licensing restrictions; the underlying data and configuration are intact within the repository's .pbix file. Additionally, the Census income table extends beyond the visible screenshot area but can be accessed fully by utilizing the included .pbix file*
 
 --- 
 
