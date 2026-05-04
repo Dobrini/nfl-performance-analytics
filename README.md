@@ -71,6 +71,7 @@ Dashboard visuals include:
 - Census income table with cross-filter linking to all other visuals
 
 See the /screenshots folder for exported views of all dashboard and static report visuals without any filters applied. The Census income table extends beyond the visible screenshot area but can be accessed fully by utilizing the included .pbix file. 
+
 *Note: Screenshots were captured within an institutional Power BI environmenht. The map visual displays an upgrade prompt due to institutional licensing restrictions; the underlying data and configuration are intact within the repository's .pbix file.*
 
 --- 
